@@ -1,5 +1,5 @@
 {
-    "name": "jfcherng/php-diff",
+    "name": "wasuint/php-diff",
     "description": "A comprehensive library for generating differences between two strings in multiple formats (unified, side by side HTML etc).",
     "type": "library",
     "license": "BSD-3-Clause",
